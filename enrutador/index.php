@@ -10,8 +10,8 @@ function miFuncion($a, $b){
  RUTA::nueva('holaMundo', function() {
   echo '<h1>Hola mundo con el enrutador de LIGA.php</h1>';
  });
- RUTA::nueva('Yadira/tarea', function() {
-  echo "<p>tarea dia 10/10/2019 clase SCyD.</p>";
+ RUTA::nueva('Bienvenida/php/Tarea', function() {
+  echo "<p>Dia 10/10/2019 Gabirel Cer.</p>";
  });
 
    //funcion anonima
